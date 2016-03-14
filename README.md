@@ -3,7 +3,7 @@
 Proyecto Pronosticador de Fútbol Ecuatoriano
 
 Se implementó un algoritmo en Python 3.4 de Regresión Lineal, el cual toma los datos estadísticos del
-Se escogerán los datos de los archivos txt los cuales me permite inicializar un vector para proceder a realizar los cálculos necesarios y mediantes la Regresión Lineal poder hallar los resultados de predicción.
+cual se escogerán los datos de los archivos txt los cuales me permite inicializar un vector para proceder a realizar los cálculos necesarios y mediantes la Regresión Lineal poder hallar los resultados de predicción.
 Se debe tener en cuenta que se tomaron como variables los siguientes datos:
 Total Títulos.
 Capacidad de Estadios.
