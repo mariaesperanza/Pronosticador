@@ -18,8 +18,9 @@ Goles a Favor.
 Goles en Contra.
 Se tomaron en cuenta los 12 equipos participantes de la Copa Pilsener 2016 y los últimos 10 años de participación de cada equipo.
 
-************************************************* PASOS PARA EJECUTAR EL PROYECTO "PRONOSTICADOR" ***********************************************************
+**********************PASOS PARA EJECUTAR EL PROYECTO "PRONOSTICADOR" ***************************
 1.- Descargamos el archivo.
+
 2.- Descomprimimos el archivo.
 3.- Para poderlo ejecutar debemos tener instalado Python 3.4 además de las extensiones: Matplotlib.pyplot  y NumPy
 4.- Procedemos a ejecutar el archivo volcado_info.py
