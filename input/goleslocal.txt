@@ -1,0 +1,24 @@
+Aucas 	2		
+	3.00	0%	0%	50%	0%	50%	0%
+Barcelona SC 	3		
+	3.00	0%	0%	0%	100%	0%	0%
+Delfin SC 	3		
+	2.33	0%	0%	67%	33%	0%	0%
+Dep Cuenca 	3		
+	1.33	33%	33%	0%	33%	0%	0%
+El Nacional 	3		
+	2.00	0%	33%	33%	33%	0%	0%
+Emelec 	2		
+	2.50	0%	50%	0%	0%	50%	0%
+Fuerza Amarilla 	3		
+	1.33	33%	33%	0%	33%	0%	0%
+Independiente 	2		
+	2.50	0%	0%	50%	50%	0%	0%
+LDU de Quito 	1		
+	2.00	0%	0%	100%	0%	0%	0%
+Mushuc Runa 	2		
+	3.00	0%	0%	0%	100%	0%	0%
+River Ecuador 	4		
+	3.00	0%	25%	0%	25%	50%	0%
+U Catolica 	4		
+	1.75	0%	75%	0%	0%	25%	0%

@@ -1,0 +1,12 @@
+ Barcelona SC  	7 out of 28 	25% 	5 	0 	2 	16 - 12 	15 	2.14
+ Aucas  	5 out of 28 	18% 	2 	1 	2 	6 - 5 	7 	1.40
+ El Nacional  	9 out of 28 	32% 	2 	2 	5 	9 - 14 	8 	0.89
+ Dep Cuenca  	18 out of 28 	64% 	2 	7 	9 	16 - 27 	13 	0.72
+ Delfin SC  	9 out of 28 	32% 	1 	2 	6 	8 - 17 	5 	0.56
+ Fuerza Amarilla  	11 out of 28 	39% 	2 	0 	9 	12 - 26 	6 	0.55
+ LDU de Quito  	16 out of 28 	57% 	1 	5 	10 	12 - 33 	8 	0.50
+ Mushuc Runa  	14 out of 28 	50% 	1 	4 	9 	10 - 31 	7 	0.50
+ River Ecuador  	16 out of 28 	57% 	2 	2 	12 	12 - 42 	8 	0.50
+ U Catolica  	13 out of 28 	46% 	0 	6 	7 	15 - 29 	6 	0.46
+ Emelec  	18 out of 28 	64% 	1 	3 	14 	14 - 38 	6 	0.33
+ Independiente  	4 out of 28 	14% 	0 	1 	3 	1 - 7 	1 	0.25
